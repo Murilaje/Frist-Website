@@ -145,3 +145,10 @@ p, h2{
 
 
 }
+@media screen and (min-width: 800px) {
+    .imagemetals {
+        height: 250px;
+        flex-direction: row;
+
+    }
+}
